@@ -41,27 +41,67 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+```
+A Digital Farm Management Portal for pig and poultry farms that helps farmers easily follow biosecurity practices.
+Key Features:
+
+Smart Risk Assessment with AI-based scoring.
+
+Training Hub with videos and guides in local languages.
+
+Compliance Tracker for farm hygiene and vaccination logs.
+
+Real-time Alerts on nearby disease outbreaks.
+
+Dashboard for authorities to monitor and analyze farm data.
+```
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+```
+- Frontend: React.js / Flutter
+
+- Backend: Node.js / Django
+
+- Database: PostgreSQL / Firebase
+
+- AI: Python (risk prediction)
+
+- Cloud: AWS / Azure
+
+- Offline Support: Data sync for low-network areas
+
+- Flow:
+User → Risk Assessment → Training → Compliance Logs → Alerts → Dashboard Analytics
+
+```
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+```
+- Uses open-source tools → cost-effective.
+
+- Simple UI for low-literacy users.
+
+- Offline-first + voice & multilingual support.
+- Challenges: Low adoption, poor internet → solved by offline + gamified system.
+```
+
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+```
+- Farmers gain disease-free farms → higher income.
+
+- Govt. gets real-time surveillance data.
+
+- Reduces livestock loss, improves food safety, and supports sustainability.
+```
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+```
+- Ministry of Animal Husbandry: dahd.nic.in
+
+- FAO Biosecurity Guidelines
+
+- WOAH (OIE) Biosecurity Standards
+
+- National Animal Disease Control Programme (NADCP)
+```
